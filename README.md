@@ -3,8 +3,9 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Ester Cristine de Assis Ferreira
+
+- Matricula:1625330
 
 ## Print da tela da página criada (Curriculum Vitae)
 
